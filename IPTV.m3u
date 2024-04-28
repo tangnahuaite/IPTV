@@ -20,7 +20,7 @@ https://epg.pw/stream/4a0ac0d84597cfee83015f10200c708839dd537debc156dd2281684ae7
 #EXTINF:-1 tvg-name="CCTV8" tvg-id="13850" tvg-country="中國大陸" tvg-language="國語" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="电视剧",CCTV-8 电视剧
 https://epg.pw/stream/5fb04be157fc0186ca9c90aac4b2d2bf4294bf0a022dbb7631ba8e849c8fe78e.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-id="13851" tvg-country="中國大陸" tvg-language="國語" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="记录",CCTV-9 记录
-https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+https://epg.pw/stream/b47a3cc12c2fb1146037bcd9efbf20a23f18dc1815060ccba28410c95abe38d9.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-id="13852" tvg-country="中國大陸" tvg-language="國語" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="科教",CCTV-10 科教
 https://epg.pw/stream/0937483bd03ffa7801b20d2dd1857d0806bb69dbd4a947475f1511d7d448c44a.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-id="13853" tvg-country="中國大陸" tvg-language="國語" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="戏曲",CCTV-11 戏曲
