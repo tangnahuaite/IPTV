@@ -251,5 +251,5 @@ http://jwcdnqx.hebyun.com.cn/live/jiyunlaiyuan/1500k/tzwj_video.m3u8
 http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="ZJK",张家口
 https://nlive.zjkgdcs.com:8572/live/xwzhpd.m3u8
-#EXTINF:-1 tvg-id="fhzw",凤凰
-https://epg.pw/stream/a7d73b5ffe9e9d33a8b774a4df3d623b2ba01a36f6ef70f20d1f3f9b27836330.ctv
+#EXTINF:-1 tvg-id="FHWSZW",凤凰卫视中文台
+https://epg.pw/stream/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.ctv
