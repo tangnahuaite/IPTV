@@ -275,47 +275,47 @@ https://epg.pw/stream/6ab2a2e7ba69c1875adb1017afd6a908963105d2cfd5034319ee1b89b3
 https://epg.pw/stream/4bb6cd65c225d9000bfa15a013db79f1068df4d235fb7e2b041dad9ae2b4d1c0.ctv
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/经典音乐广播.png",经典音乐广播
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/经济之声.png",经济之声
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/经济之声.png",经济之声
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/神州之声.png",神州之声
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/神州之声.png",神州之声
 http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/文艺之声.png",文艺之声
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/文艺之声.png",文艺之声
 http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/香港之声.png",香港之声
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/香港之声.png",香港之声
 http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/娱乐之声.png",娱乐广播
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/娱乐之声.png",娱乐广播
 http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/中国交通广播.png",中国交通广播
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/中国交通广播.png",中国交通广播
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/乡村之声.png",中国乡村之声
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/乡村之声.png",中国乡村之声
 http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/中国之声.png",中国之声
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/中国之声.png",中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/中华之声.png",中华之声
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/中华之声.png",中华之声
 http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/环球资讯广播.png",环球资讯广播
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/环球资讯广播.png",环球资讯广播
 http://sk.cri.cn/905.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/南海之声.png",南海之声
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/南海之声.png",南海之声
 http://sk.cri.cn/nhzs.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/河北综合广播.png",保定城市服务广播
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/河北综合广播.png",保定城市服务广播
 http://ls.qingting.fm/live/62628.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/河北交通广播.png",保定交通广播
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/河北交通广播.png",保定交通广播
 http://ls.qingting.fm/live/28140.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/北京好音乐.png",北京好音乐
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/北京好音乐.png",北京好音乐
 http://ls.qingting.fm/live/2131011.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/北京交通广播.png",北京交通广播
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/北京交通广播.png",北京交通广播
 http://live.xmcdn.com/live/93/64.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/北京新闻广播.png",北京新闻广播
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/北京新闻广播.png",北京新闻广播
 http://ls.qingting.fm/live/339.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/北京音乐广播.png",北京音乐广播
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/北京音乐广播.png",北京音乐广播
 http://live.xmcdn.com/live/95/64.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/中广新闻网.png",中广新闻网
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/中广新闻网.png",中广新闻网
 http://stream.rcs.revma.com/78fm9wyy2tzuv
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/美国之音.png",美国之音
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/美国之音.png",美国之音
 http://stream.radiojar.com/7thwu53r92quv
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/自由亚洲电台.png",自由亚洲电台
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/自由亚洲电台.png",自由亚洲电台
 https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/台北广播电台.png",中央廣播電臺
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/台北广播电台.png",中央廣播電臺
 https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8
-#EXTINF:-1 radio=true "https://raw.githubusercontent.com/fanmingming/live/main/radio/上海新闻广播.png",上海人民广播电台
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/上海新闻广播.png",上海人民广播电台
 http://ls.qingting.fm/live/270.m3u8
