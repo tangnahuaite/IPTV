@@ -283,7 +283,7 @@ http://ngcdn006.cnr.cn/live/szzs/index.m3u8
 http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/香港之声.png",香港之声
 http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/娱乐之声.png",娱乐广播
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/北京经典969.png",娱乐广播
 http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/中国交通广播.png",中国交通广播
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
@@ -301,7 +301,7 @@ http://sk.cri.cn/nhzs.m3u8
 http://ls.qingting.fm/live/62628.m3u8
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/河北交通广播.png",保定交通广播
 http://ls.qingting.fm/live/28140.m3u8
-#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/北京好音乐.png",北京好音乐
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/北京动听调频.png",北京好音乐
 http://ls.qingting.fm/live/2131011.m3u8
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/北京交通广播.png",北京交通广播
 http://live.xmcdn.com/live/93/64.m3u8
