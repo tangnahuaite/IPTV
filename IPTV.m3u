@@ -5,10 +5,10 @@ https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="13844" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/CCTV3.png" group-title="综艺",CCTV-3 综艺
 https://epg.pw/stream/bedd90f2589f214ccca54c6183c14974714e2a66a0492dc8f71126cdd5a2105f.m3u8
-#EXTINF:-1 tvg-name="CCTV4k" tvg-id="13929" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/CCTV4k.png" group-title="超高清",CCTV 4K超高清
-https://epg.pw/stream/501663699bfe2985114ba99756ec4b5de3b0f08235fe918b6185add216839c2b.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="13845" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/CCTV4.png" group-title="中文国际",CCTV-4 中文国际
 https://epg.pw/stream/ef9b087371bda4714a5baf1f17f93e9dc7cfd2890eab472f3058709c17b3315f.m3u8
+#EXTINF:-1 tvg-name="CCTV4k" tvg-id="13929" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/CCTV4k.png" group-title="超高清",CCTV 4K超高清
+https://epg.pw/stream/501663699bfe2985114ba99756ec4b5de3b0f08235fe918b6185add216839c2b.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="13846" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-id="13847" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
@@ -273,3 +273,5 @@ https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b223
 https://epg.pw/stream/6ab2a2e7ba69c1875adb1017afd6a908963105d2cfd5034319ee1b89b37d1ae5.ctv
 #EXTINF:-1 tvg-name="115新天地民俗臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222702096387_48.png" group-title="其它",神乐电影2
 https://epg.pw/stream/4bb6cd65c225d9000bfa15a013db79f1068df4d235fb7e2b041dad9ae2b4d1c0.ctv
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://1.194.50.138:10086/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
