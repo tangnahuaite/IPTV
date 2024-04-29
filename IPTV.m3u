@@ -273,5 +273,3 @@ https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b223
 https://epg.pw/stream/6ab2a2e7ba69c1875adb1017afd6a908963105d2cfd5034319ee1b89b37d1ae5.ctv
 #EXTINF:-1 tvg-name="115新天地民俗臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222702096387_48.png" group-title="其它",神乐电影2
 https://epg.pw/stream/4bb6cd65c225d9000bfa15a013db79f1068df4d235fb7e2b041dad9ae2b4d1c0.ctv
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://1.194.50.138:10086/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
