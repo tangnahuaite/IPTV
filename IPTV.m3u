@@ -33,7 +33,7 @@ https://epg.pw/stream/35b1968ac8f696e98cdd72b2e403b67f7bae0ae393ee693f278a245625
 https://epg.pw/stream/c375661a94c310dd112505c98740c9917785676f84443adf5246edaa1d5de485.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="13857" tvg-country="中國大陸" tvg-language="國語" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="音乐",CCTV-15 音乐
 https://epg.pw/stream/d239fb84263e881c367c092224d5a5bbc9bc8f6096875c7506df050d8106d32c.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-id="14153" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206011409534910_94.jpg" group-title="奥林匹克",CCTV-16 奥林匹克
+#EXTINF:-1 tvg-name="CCTV16" tvg-id="14153" tvg-country="中國大陸" tvg-language="國語" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="奥林匹克",CCTV-16 奥林匹克
 https://epg.pw/stream/ef0fd5d8e6b94b53627f9bb92127c5505ea28fb9b0a824956c635db17942c10d.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="13858" tvg-country="中國大陸" tvg-language="國語" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="农业农村",CCTV-17 农业农村
 https://epg.pw/stream/dddefc79612b67b3cf82b2c6e138c410f87628a60ce50a269f6e8dec056c23a8.m3u8
