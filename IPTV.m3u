@@ -285,7 +285,7 @@ http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
 http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/台海之声.png",台海之声
 http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/乡村之声.png"乡村之声
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/乡村之声.png",乡村之声
 http://ngcdn017.cnr.cn/live/xczs/index.m3u8
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/老年之声.png",老年之声
 http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
@@ -301,7 +301,7 @@ http://ngcdn006.cnr.cn/live/szzs/index.m3u8
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/飞碟电台.png",飞碟电台
 http://stream.rcs.revma.com/em90w4aeewzuv
-#EXTINF:-1radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/北京经典969.png",北京经典969
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/北京经典969.png",北京经典969
 http://live.funhillrm.com/4/sd/live.m3u8
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/苏州音乐广播.png",苏州都市音乐广播
 http://audio-live.radio.cn/live/szyy1/playlist.m3u8
