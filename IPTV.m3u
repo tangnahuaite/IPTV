@@ -40,7 +40,7 @@ https://epg.pw/stream/dddefc79612b67b3cf82b2c6e138c410f87628a60ce50a269f6e8dec05
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/怀旧剧场.png",CCTV 怀旧剧场
 https://epg.pw/stream/64118614da901fa555c5610863ebf1a8a8b974569476259a8a5d3d014e16e6f3.m3u8
 #EXTINF:-1 tvg-name="CCTV世界地理" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/世界地理.png",CCTV 世界地理
-https://epg.pw/stream/6c49b3dcaa8df3ccc513b14c3dbeb8b0c6a404805e88aee19c1ebc53d79dbfef.ctv
+https://epg.pw/stream/d959e7fa2de88f0daa2b9a5de3cc6caa70c29ab06c0cb568083ad454fd64c910.ctv
 #EXTINF:-1 tvg-name="CCTV兵器科技" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/兵器科技.png",CCTV 兵器科技
 https://epg.pw/stream/eefe6cb512978f2ae6655942726d3db62226f7a84f4b2a25e4bc3babaaaa596a.m3u8
 #EXTINF:-1 tvg-name="CCTV央視文化精品" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/文化精品.png",CCTV 文化精品
@@ -50,7 +50,7 @@ https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e030
 #EXTINF:-1 tvg-name="CCTV女性時尚" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/女性时尚.png",CCTV 女性时尚
 https://epg.pw/stream/1077cc124885bf8775068ce65630acf3ef9480488700f3b093314c6070bdb3e0.m3u8
 #EXTINF:-1 tvg-name="CCTV第一劇場" tvg-id="" ttvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/第一剧场.png",CCTV 第一剧场
-https://epg.pw/stream/5786b35cc03d1123a37e180495579c6e0fbd339c32542307be9a2e4388e04925.m3u8
+https://epg.pw/stream/31cbe2ad06dc69104322ab8dc32fd094b5bc855f9e9a7f2efbdb34f91a819be0.ctv
 #EXTINF:-1 tvg-name="CCTV衛生健康" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/卫生健康.png",CCTV 卫生健康
 https://epg.pw/stream/fc90a505bbcefc5a9c91e5dc5e12f5b0d6f76ac5f86b55a33ee724051af2d385.m3u8
 #EXTINF:-1 tvg-name="CCTV電視指南" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/电视指南.png",CCTV 电视指南
@@ -58,7 +58,7 @@ https://epg.pw/stream/9e948bbd5453affbe5fe879bc1c4145203aac9b993b01e7db9b1148e40
 #EXTINF:-1 tvg-name="CCTV風雲劇場" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/风云剧场.png",CCTV 风云剧场
 https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a88830bf.m3u8
 #EXTINF:-1 tvg-name="CCTV風雲足球" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/风云足球.png",CCTV 风云足球
-https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+https://epg.pw/stream/6fd6c5da601b6c9625a4e0a214f061c0f1fd507f6cebde538c652e7b58e01475.ctv
 #EXTINF:-1 tvg-name="CCTV風雲音樂" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/风云音乐.png",CCTV 风云音乐
 https://epg.pw/stream/6085b1ee65bdfe6d5512fe91890757573e1a6f4912485655fdcedb19f7eda497.m3u8
 #EXTINF:-1 tvg-name="安徽衛視" tvg-id="13873" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/安徽卫视.png",安徽卫视
