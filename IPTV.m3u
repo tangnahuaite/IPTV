@@ -141,8 +141,10 @@ https://epg.pw/stream/039ce88ed853e0843ddd582b05a4b05caad6c6c97ed78f541e5ce97cbd
 https://epg.pw/stream/f1f00d3b8166406379e6ca5d0b81ff153b65741ebc502371d877dbbc8767347e.m3u8
 #EXTINF:-1 tvg-name="CHC動作電影" tvg-id="14047" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/CHC动作电影.png",CHC 动作电影
 https://epg.pw/stream/9e5dbc0cbb15ba574f44e0d67c54cff2c85a7ed97dbb73e3b2101b26fec45cf1.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/CHC家庭影院.png,CHC 家庭影院
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="14050" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/CHC家庭影院.png,CHC 家庭影院
 https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.m3u8
+#EXTINF:-1 tvg-name="CHC高畫質電影" tvg-id="14045" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204051214143_83.png" CHC高清电影
+https://epg.pw/stream/3bcacb2ddf662037b37dee63df19deeeffab03d9025530ab692946de8d43966c.m3u8
 #EXTINF:-1 tvg-name="南京十八" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531150202957175_96.jpg" group-title="綜合",江苏南京
 https://epg.pw/stream/a4abaea5e95a7a1b402a879dc51021d5b9eb75af58b9363cae0e4ccb121c72ac.m3u8
 #EXTINF:-1 tvg-name="南京資訊" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531150625576220_52.jpg" group-title="其它",南京信息
