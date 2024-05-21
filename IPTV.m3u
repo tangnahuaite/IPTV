@@ -118,7 +118,7 @@ https://epg.pw/stream/8a25db261e267a26ffe07b5a45ff3714d3b7790537ab186cc64a654542
 #EXTINF:-1 tvg-name="浙江衛視" tvg-id="13869" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/浙江卫视.png",浙江卫视
 https://epg.pw/stream/cfe6c386aeda1787f606df629248faf407b2351852e3ea6994357836a1643f5c.m3u8
 #EXTINF:-1 tvg-name="鳳凰衛視" tvg-id="13937" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/凤凰卫视中文台.png",凤凰卫视中文
-https://epg.pw/stream/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.m3u8
+https://epg.pw/stream/b5ceaeacd11b0331a6b3fbb0c4ef90836be87bb2c478d76b74ef1e27f32326f3.ctv
 #EXTINF:-1 tvg-name="鳳凰資訊HD" tvg-id="13938" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/凤凰卫视资讯台.png",鳳凰衛視資訊
 https://epg.pw/stream/a8150d95ef7cfb2f49dbbde2df2335f7bfd59ab4f3aeef08273b80aee5b137fe.ctv
 #EXTINF:-1 tvg-name="NEWTV中國功夫" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/NEWTV中国功夫.png",NEWTV 中国功夫
