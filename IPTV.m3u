@@ -37,29 +37,27 @@ https://epg.pw/stream/d239fb84263e881c367c092224d5a5bbc9bc8f6096875c7506df050d81
 https://epg.pw/stream/ef0fd5d8e6b94b53627f9bb92127c5505ea28fb9b0a824956c635db17942c10d.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="13858" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/CCTV17.png",CCTV-17 农业农村
 https://epg.pw/stream/dddefc79612b67b3cf82b2c6e138c410f87628a60ce50a269f6e8dec056c23a8.m3u8
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/怀旧剧场.png",CCTV 怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/怀旧剧场.jpg",CCTV 怀旧剧场
 https://epg.pw/stream/64118614da901fa555c5610863ebf1a8a8b974569476259a8a5d3d014e16e6f3.m3u8
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/世界地理.png",CCTV 世界地理
-https://epg.pw/stream/d959e7fa2de88f0daa2b9a5de3cc6caa70c29ab06c0cb568083ad454fd64c910.ctv
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/世界地理.jpg",CCTV 世界地理
+https://epg.pw/stream/a21d3b2c0fb8bedc944540de165684096fba12a38f2320b2432ff9db7a01dd03.m3u8
 #EXTINF:-1 tvg-name="CCTV兵器科技" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/兵器科技.jpg",CCTV 兵器科技
 https://epg.pw/stream/eefe6cb512978f2ae6655942726d3db62226f7a84f4b2a25e4bc3babaaaa596a.m3u8
-#EXTINF:-1 tvg-name="CCTV央視文化精品" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/文化精品.png",CCTV 文化精品
+#EXTINF:-1 tvg-name="CCTV央視文化精品" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/文化精品.jpg",CCTV 文化精品
 https://epg.pw/stream/70666105717759ad2b87b61789ef3e4ef7aad472a2adc319c102e6488cbc70ad.m3u8
-#EXTINF:-1 tvg-name="CCTV央視檯球" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/央视台球.png",CCTV 央视台球
+#EXTINF:-1 tvg-name="CCTV央視檯球" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/央视台球.jpg",CCTV 央视台球
 https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
-#EXTINF:-1 tvg-name="CCTV女性時尚" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/女性时尚.png",CCTV 女性时尚
+#EXTINF:-1 tvg-name="CCTV女性時尚" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/女性时尚.jpg",CCTV 女性时尚
 https://epg.pw/stream/1077cc124885bf8775068ce65630acf3ef9480488700f3b093314c6070bdb3e0.m3u8
-#EXTINF:-1 tvg-name="CCTV第一劇場" tvg-id="" ttvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/第一剧场.png",CCTV 第一剧场
-https://epg.pw/stream/31cbe2ad06dc69104322ab8dc32fd094b5bc855f9e9a7f2efbdb34f91a819be0.ctv
-#EXTINF:-1 tvg-name="CCTV衛生健康" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/卫生健康.png",CCTV 卫生健康
-https://epg.pw/stream/fc90a505bbcefc5a9c91e5dc5e12f5b0d6f76ac5f86b55a33ee724051af2d385.m3u8
-#EXTINF:-1 tvg-name="CCTV電視指南" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/电视指南.png",CCTV 电视指南
+#EXTINF:-1 tvg-name="CCTV第一劇場" tvg-id="" ttvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/第一剧场.jpg",CCTV 第一剧场
+https://epg.pw/stream/5786b35cc03d1123a37e180495579c6e0fbd339c32542307be9a2e4388e04925.m3u8
+#EXTINF:-1 tvg-name="CCTV電視指南" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/电视指南.jpg",CCTV 电视指南
 https://epg.pw/stream/9e948bbd5453affbe5fe879bc1c4145203aac9b993b01e7db9b1148e40815499.m3u8
-#EXTINF:-1 tvg-name="CCTV風雲劇場" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/风云剧场.png",CCTV 风云剧场
+#EXTINF:-1 tvg-name="CCTV風雲劇場" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/风云剧场.jpg",CCTV 风云剧场
 https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a88830bf.m3u8
-#EXTINF:-1 tvg-name="CCTV風雲足球" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/风云足球.png",CCTV 风云足球
-https://epg.pw/stream/6fd6c5da601b6c9625a4e0a214f061c0f1fd507f6cebde538c652e7b58e01475.ctv
-#EXTINF:-1 tvg-name="CCTV風雲音樂" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/风云音乐.png",CCTV 风云音乐
+#EXTINF:-1 tvg-name="CCTV風雲足球" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/风云足球.jpg",CCTV 风云足球
+https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+#EXTINF:-1 tvg-name="CCTV風雲音樂" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/风云音乐.jpg",CCTV 风云音乐
 https://epg.pw/stream/6085b1ee65bdfe6d5512fe91890757573e1a6f4912485655fdcedb19f7eda497.m3u8
 #EXTINF:-1 tvg-name="安徽衛視" tvg-id="13873" tvg-logo="https://raw.githubusercontent.com/tangnahuaite/IPTV/main/logo/tv/安徽卫视.png",安徽卫视
 https://epg.pw/stream/064885661f77496201d915dca6fdb24ecff1343d4bb5d6d2014415dc11ef2399.m3u8
@@ -162,7 +160,7 @@ https://epg.pw/stream/0e304419acd18f06632242d04ca3e267a9ac00bbb7bc7252fc9775420a
 #EXTINF:-1 tvg-name="之江紀錄" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/09/03/large/20220903203458608954_74.png" group-title="知識",之江纪录
 https://epg.pw/stream/496628986e817c55a7027c61b5158a810b7ecca4fa8dd386fc11c1504a8f0195.m3u8
 #EXTINF:-1 tvg-name="五星體育" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510150751993281_49.jpg" group-title="運動",五星体育
-https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.ctv
+https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
 #EXTINF:-1 tvg-name="內蒙古少兒頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/03/14/large/20240314054604803919_61.png" group-title="兒童",内蒙古少儿频道
 https://epg.pw/stream/fd7f26799bc50c13550838d171c838132e948eaada65dc928f0a741cc3569cb3.m3u8
 #EXTINF:-1 tvg-name="劉德華" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525051544390111_69.png" group-title="電影",刘德华
