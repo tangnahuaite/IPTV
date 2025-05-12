@@ -87,7 +87,7 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8?
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://live.fanmingming.cn/tv/北京国际.png" group-title="北京频道",北京国际
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?
-#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="北京频道",北京卡酷少儿
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/1.m3u8?
 #EXTINF:-1 tvg-name="北京体育" tvg-logo="https://live.fanmingming.cn/tv/北京体育休闲.png" group-title="北京频道",北京体育休闲
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?
@@ -95,16 +95,26 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226559/1.m3u8?
 #EXTINF:-1 tvg-name="北京4K超清" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV4K.png" group-title="北京频道",北京4K超清
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
-#EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.cn/tv/北京淘电影.png" group-title="北京频道",北京淘电影
+#EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV4K.png" group-title="北京频道",北京淘电影
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
-#EXTINF:-1 tvg-name="北京淘剧场" tvg-logo="https://live.fanmingming.cn/tv/北京淘剧场.png" group-title="北京频道",北京淘剧场
+#EXTINF:-1 tvg-name="北京淘剧场" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV4K.png" group-title="北京频道",北京淘剧场
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?
-#EXTINF:-1 tvg-name="北京淘娱乐" tvg-logo="https://live.fanmingming.cn/tv/北京淘娱乐.png" group-title="北京频道",北京淘娱乐
+#EXTINF:-1 tvg-name="北京淘娱乐" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV4K.png" group-title="北京频道",北京淘娱乐
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?
-#EXTINF:-1 tvg-name="北京淘BABY" tvg-logo="https://live.fanmingming.cn/tv/北京淘BABY.png" group-title="北京频道",北京淘BABY
+#EXTINF:-1 tvg-name="北京淘BABY" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV4K.png" group-title="北京频道",北京淘BABY
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?
-#EXTINF:-1 tvg-name="北京萌宠TV" tvg-logo="https://live.fanmingming.cn/tv/北京萌宠TV.png" group-title="北京频道",北京萌宠TV
+#EXTINF:-1 tvg-name="北京萌宠TV" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV4K.png" group-title="北京频道",北京萌宠TV
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.cn/tv/重温经典.png" group-title="北京频道",重温经典
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8?
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="北京频道",睛彩青少
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8?
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="北京频道",睛彩篮球
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8?
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="北京频道",睛彩竞技
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8?
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="北京频道",睛彩广场舞
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226567/1.m3u8?
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.cn/tv/中国交通.png" group-title="北京频道",中国交通
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8?
 #EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.cn/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
